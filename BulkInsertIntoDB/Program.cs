@@ -1,5 +1,4 @@
 ﻿
-
 var objBulk = new BulkUploadToSql<Person>()
 {
     InternalStore = new List<Person>(),
